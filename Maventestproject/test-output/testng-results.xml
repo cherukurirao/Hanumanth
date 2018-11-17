@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44753" started-at="2018-11-15T14:04:38Z" finished-at="2018-11-15T14:05:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44753" started-at="2018-11-15T14:04:38Z" finished-at="2018-11-15T14:05:23Z">
+      <class name="com.selenium.Maventestproject.fnptest">
+        <test-method status="PASS" signature="FNPLAUNCH()[pri:0, instance:com.selenium.Maventestproject.fnptest@60b431]" name="FNPLAUNCH" is-config="true" duration-ms="21406" started-at="2018-11-15T14:04:38Z" finished-at="2018-11-15T14:04:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FNPLAUNCH -->
+        <test-method status="PASS" signature="FNPPAGE(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.Maventestproject.fnptest@60b431]" name="FNPPAGE" duration-ms="23025" started-at="2018-11-15T14:05:00Z" data-provider="menu" finished-at="2018-11-15T14:05:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FLOWERSkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CAKESkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PERSONALISEDkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PLANTSkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[BIRTHDAYkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ANNIVERSARYkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[OCCASIONSkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[OTHER GIFTSkeyboard_arrow_down]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[GLOBALkeyboard_arrow_down]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FNPPAGE -->
+      </class> <!-- com.selenium.Maventestproject.fnptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
